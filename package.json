@@ -1,0 +1,23 @@
+{
+  "name": "@shopline/sl-translation-model-node",
+  "version": "1.0.0",
+  "description": "sl-translation-model-node",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/starlinglabs/sl-utils-node.git"
+  },
+  "author": "Eric Kwong",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/starlinglabs/sl-utils-node#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15"
+  }
+}
